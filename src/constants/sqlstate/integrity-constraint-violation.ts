@@ -19,4 +19,8 @@ export const POSTGRESQL_INTEGRITY_CONSTRAINT_VIOLATION_SQLSTATE_ENUM = {
     code: "23505",
     name: "unique_violation",
   },
+  CHECK_VIOLATION: {
+    code: "23514",
+    name: "check_violation",
+  },
 } as const;
