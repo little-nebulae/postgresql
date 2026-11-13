@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "@arethetypeswrong/core": "0.18.5",
+    "@little-nebulae/error": "1.4.1",
     "@oxc-node/cli": "1.0.1",
     "@types/node": "26.6.6",
     "oxfmt": "0.78.0",
@@ -37,6 +38,9 @@
     "tsdown": "0.23.7",
     "typescript": "7.1.0-beta",
     "vitest": "5.1.0"
+  },
+  "peerDependencies": {
+    "@little-nebulae/error": "^1.0.0"
   },
   "devEngines": {
     "packageManager": {
