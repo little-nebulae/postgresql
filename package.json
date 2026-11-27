@@ -30,7 +30,7 @@
     "@arethetypeswrong/core": "0.18.5",
     "@little-nebulae/error": "1.4.1",
     "@oxc-node/cli": "1.0.2",
-    "@types/node": "26.6.6",
+    "@types/node": "26.6.11",
     "oxfmt": "0.79.0",
     "oxlint": "1.94.0",
     "oxlint-tsgolint": "7.0.2007",
